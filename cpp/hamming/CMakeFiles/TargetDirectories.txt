@@ -1,0 +1,4 @@
+/home/sfisher/gitclones/exercism/cpp/hamming/CMakeFiles/rebuild_cache.dir
+/home/sfisher/gitclones/exercism/cpp/hamming/CMakeFiles/edit_cache.dir
+/home/sfisher/gitclones/exercism/cpp/hamming/CMakeFiles/hamming.dir
+/home/sfisher/gitclones/exercism/cpp/hamming/CMakeFiles/test_hamming.dir

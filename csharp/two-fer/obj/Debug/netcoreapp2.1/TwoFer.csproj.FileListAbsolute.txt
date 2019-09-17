@@ -1,0 +1,14 @@
+/home/sfisher/gitclones/exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.csprojAssemblyReference.cache
+/home/sfisher/gitclones/exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.csproj.CoreCompileInputs.cache
+/home/sfisher/gitclones/exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.AssemblyInfoInputs.cache
+/home/sfisher/gitclones/exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.AssemblyInfo.cs
+/home/sfisher/gitclones/exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sfisher/gitclones/exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/sfisher/gitclones/exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/sfisher/gitclones/exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.deps.json
+/home/sfisher/gitclones/exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.runtimeconfig.json
+/home/sfisher/gitclones/exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.runtimeconfig.dev.json
+/home/sfisher/gitclones/exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.dll
+/home/sfisher/gitclones/exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.pdb
+/home/sfisher/gitclones/exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.dll
+/home/sfisher/gitclones/exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.pdb
