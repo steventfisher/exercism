@@ -1,0 +1,23 @@
+// The SpaceAge function is given seconds on a specific planet  and returns how old someone would be in Earth years.
+package space
+
+import (
+	"strings"
+)
+
+// HelloWorld returns "Hello, World!"
+func Age(seconds int, planet Planet) float64 {
+	const eathOrbitDays = 365.25
+	var earthDays = map[string]float64{
+		"earth" : 31557600,
+		"mercury" : 0.2408467,
+		"venus" : 0.61519726,
+		"mars" : 1.8808158,
+		"jupiter" : 11.862615,
+		"saturn" : 29.447498,
+		"uranus" : 84.016846,
+		"neptune" : 164.79132,
+	}
+	var age = (float64(seconds) / earthDays["earth"]) / earthDays[strings.ToLower(planet)]	
+	return age
+}

@@ -1,0 +1,17 @@
+//This program returns 1 is the given number is an armstrong number and 0
+// otherwise.
+#include "armstrong_numbers.h"
+#include <math.h>
+
+
+int isArmstrongNumber(int n)
+{
+  int pow = floor(log10(abs(the_integer))) + 1;
+  int sum = 0;
+  while(n > 0)
+    {
+      sum += pow(n % 10, pow);
+      n = n /10;
+    }
+  return sum;
+}
