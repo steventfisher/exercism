@@ -5,7 +5,7 @@
 
 namespace hamming {
 
-  int compute(std::string dna1, std::string dna2);
+  int compute(const std::string& dna1, const std::string& dna2);
   
 }  // namespace hamming
 
